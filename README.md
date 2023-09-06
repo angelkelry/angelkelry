@@ -1,5 +1,5 @@
 # Angel Henriques
-Olá, Sou a Angel!👋 Biomédica em transição de carreira. Graduanda em **ciência de dados** e realizando bootcamps para integrar o mundo tech.
+Olá, sou a Angel!👋 Biomédica em transição de carreira. Graduanda em **ciência de dados** e realizando bootcamps para integrar o mundo tech.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/angel-henriques-797a891a8/)   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/angelkelry/)
